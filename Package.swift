@@ -24,7 +24,8 @@ let package = Package(
         ),
         .target(
             name: "KoahAdsTarget",
-            dependencies: ["KoahAds"]
+            dependencies: ["KoahAds"],
+            path: "KoahAdsTarget"
         )
     ]
 )
