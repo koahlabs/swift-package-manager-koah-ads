@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KoahAds",
-            url: "https://github.com/koahlabs/swift-package-manager-koah-ads/releases/download/0.5.0/KoahSDK-0.5.0.zip",
-            checksum: "004c91361b00e8563968259b328ce5eb0eca1f1ae6cc706a423d8d0712c48cd0"
+            url: "https://github.com/koahlabs/swift-package-manager-koah-ads/releases/download/0.5.1/KoahSDK-0.5.1.zip",
+            checksum: "b40f0f6f87fe233a9d015377117e133f18f40f89674a4093ec6b4ed4dfff43a6"
         ),
         .target(
             name: "KoahAdsTarget",
